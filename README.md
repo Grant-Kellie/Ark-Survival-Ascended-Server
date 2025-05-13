@@ -1,2 +1,5 @@
-# Ark-Survival-Ascended-Server
-Ark Survival Ascended Server
+# Windows Ark Survival Ascended Dedicated Server
+- Installs SteamCMD
+- Updates SteamCMD
+- Downloads Ark Survival Ascended Dedicated Server
+- Prompts update or launch
