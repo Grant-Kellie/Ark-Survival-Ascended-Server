@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Experimental Server launcher**
+> Configuration partially tested, server boots, but may not be descoverable.
+
 # Windows Ark Survival Ascended Dedicated Server
 - Installs SteamCMD
 - Updates SteamCMD
@@ -13,8 +17,3 @@ Default Ports required:
 - UDP 7778	Peer port (always Game port +1)
 - UDP 27015	Query port (for Steam's server browser only)
 - TCP 27020	RCON for remote console server access (optional)
-
-# Notes
-> [!IMPORTANT]
-> **Experimental Server launcher**
-> Configuration partially tested, server boots, but may not be descoverable.
